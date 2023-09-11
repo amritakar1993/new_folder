@@ -2,3 +2,11 @@ this is just a random file nam
 devops is fun to learn
 First learning devops in AWS
 This will be amazin
+
+git init
+git status
+git add
+git rm --cached
+git commit -m " "
+git log
+git restore
